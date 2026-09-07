@@ -1,12 +1,4 @@
 @import "tailwindcss";
-
-@theme{
-  --spacing: 1170px; 
-}
-
-
-
-
-@utility container{
-    @apply mx-auto
+@theme {
+  --container: 1170px; 
 }
